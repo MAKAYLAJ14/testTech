@@ -4,7 +4,7 @@
 A quiz with cypress implemented to allow for testing
 
 ## Installation
-Download the requisite files, use npm install to install dependencies and npm run build to build the js app. Then run npm start to boot the app up.
+Download the starter code, use npm install to install dependencies and npm run build to build the js app. Then run npm start to boot the app up.
 
 ## Usage
 To implement testing to help speed up the coding pipeline
